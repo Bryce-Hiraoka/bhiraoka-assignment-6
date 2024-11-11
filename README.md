@@ -1,3 +1,5 @@
+Video: https://youtu.be/ZQbWNtO8q9E
+
 # CS506 Assignment 6
 # Linear Regression
 
